@@ -45,7 +45,7 @@
 
 ---
 
-## 🏛️ Data Source
+## Data Source
 
 * **Provider**: Korea Internet & Security Agency (KISA)
 * **Platform**: Public Data Portal (data.go.kr)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📜 License
+## License
 
 이 레포지토리는 **MIT License**를 따릅니다.
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚫 Prohibited Use
+## Prohibited Use
 
 다음과 같은 사용은 **명확히 금지**됩니다.
 
