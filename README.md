@@ -45,21 +45,6 @@
 
 ---
 
-## Dataset Structure
-
-```text
-kisa-phishing-url-dataset/
-├── README.md
-├── LICENSE
-├── data/
-│   ├── phishing_urls_2024.csv
-│   ├── phishing_urls_2024.json
-├── docs/
-│   └── data_schema.md
-```
-
----
-
 ## Data Source
 
 * **Provider**: Korea Internet & Security Agency (KISA)
