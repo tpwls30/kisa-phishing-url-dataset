@@ -35,7 +35,7 @@
 
 | Original (Not Included)                                | Defanged Version            |
 | ------------------------------------------------------ | --------------------------- |
-| [https://example.com/login](https://example.com/login) | hxxps://example[.]com/login |
+| [https://example.com/login](https://example.com/login) | example[.]com/login         |
 
 또는 다음과 같은 형태로 제공합니다.
 
