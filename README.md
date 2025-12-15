@@ -20,28 +20,9 @@
 ## Important Disclaimer
 
 * 본 레포지토리에 포함된 데이터는 **KISA 공공데이터**를 가공한 것입니다.
-* 모든 URL 정보는 **사고 방지를 위해 defang 처리**되어 있으며, 실제 접속이 불가능합니다.
 * 이 데이터는 **연구, 교육, 방어 목적**으로만 사용해야 합니다.
 * 데이터의 최신성, 정확성, 실시간 유효성은 보장되지 않습니다.
 * 본 레포지토리의 데이터를 사용함으로 인해 발생하는 모든 책임은 사용자에게 있습니다.
-
----
-
-## URL Handling Policy (Defanging)
-
-본 레포지토리에서는 GitHub 정책 및 사용자 안전을 위해 **원본 URL을 그대로 공개하지 않습니다**.
-
-### Example
-
-| Original (Not Included)                                | Defanged Version            |
-| ------------------------------------------------------ | --------------------------- |
-| [https://example.com/login](https://example.com/login) | hxxps://example[.]com/login |
-
-또는 다음과 같은 형태로 제공합니다.
-
-* scheme 제거
-* domain 단위 분리
-* path 분리
 
 ---
 
